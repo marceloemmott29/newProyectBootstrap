@@ -17,4 +17,15 @@ body {
   font-weight:bold;
 }
 
+.carousel-inner {
+  max-height: 39rem;
+}
 
+
+
+@media (max-width: 768px){
+  #intro{
+    width: 90% !important;
+  
+  }
+}
